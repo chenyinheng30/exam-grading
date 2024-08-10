@@ -7,3 +7,6 @@
 [submodule "exams"]
 	path = exams
 	url = git@github.com:chenyinheng30/test-exam.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/chenyinheng30/TinyInfiniTensor.git
